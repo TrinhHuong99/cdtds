@@ -31,4 +31,11 @@ adonis migration:run
 ```
 ## install adonis
  npm i -g @adonisjs/cli
+## Change file env
+ chuyển file .eNếu gặp bug về appKey
+adonis key:generate
+nv.default sang .env
+## Nếu gặp bug về appKey
+adonis key:generate
+
  
